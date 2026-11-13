@@ -13,8 +13,14 @@ Always interested in learning something new.
 # Tools & Tech
 
 
-**Languages:** C, Java
+**Languages:** C, Java,python,c++
+
+
 **Operating Systems:** Linux, Windows
+
+
 **Security Tools:** Nmap, Burp Suite, Wireshark
+
+
 **Version Control:** Git, GitHub
 
