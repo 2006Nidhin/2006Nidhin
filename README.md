@@ -9,3 +9,12 @@ I enjoy exploring web security, vulnerability research, Linux, and programming.
 I spend my time experimenting with security tools, working on projects, and improving my practical skills.
 
 Always interested in learning something new.
+
+# Tools & Tech
+
+
+**Languages:** C, Java
+**Operating Systems:** Linux, Windows
+**Security Tools:** Nmap, Burp Suite, Wireshark
+**Version Control:** Git, GitHub
+
