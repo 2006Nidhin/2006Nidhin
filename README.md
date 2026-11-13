@@ -10,7 +10,7 @@ I spend my time experimenting with security tools, working on projects, and impr
 
 Always interested in learning something new.
 
-# Tools & Tech
+# Tools & Tech 💻
 
 
 **Languages:** C, Java,python,c++
